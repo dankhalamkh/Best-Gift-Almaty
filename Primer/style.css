@@ -262,6 +262,8 @@ header .button a:hover {
 
 
 .insta {
+    display: flex;
+    flex-direction: row;
     margin-left: 500px;
     margin-right: 500px;
     margin-top: 20px;
